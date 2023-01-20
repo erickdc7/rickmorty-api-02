@@ -10,7 +10,7 @@ const Cards = ({ results, page }) => {
             return (
                 <Link
                     style={{ textDecoration: "none" }}
-                    to={`${page}${id}`}
+                    to={`/rickmorty-api-joyshaheb${page}${id}`}
                     key={id}
                     className="col-lg-4 col-md-4 col-12 mb-4 position-relative text-dark"
                 >

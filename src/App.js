@@ -20,14 +20,14 @@ function App() {
 			</div>
 
 			<Routes>
-				<Route path="/" element={<Home />} />
-				<Route path="/:id" element={<CardDetails />} />
+				<Route path="/rickmorty-api-joyshaheb" element={<Home />} />
+				<Route path="/rickmorty-api-joyshaheb/:id" element={<CardDetails />} />
 
-				<Route path="/episodes" element={<Episodes />} />
-				<Route path="/episodes/:id" element={<CardDetails />} />
+				<Route path="/rickmorty-api-joyshaheb/episodes" element={<Episodes />} />
+				<Route path="/rickmorty-api-joyshaheb/episodes/:id" element={<CardDetails />} />
 
-				<Route path="/location" element={<Location />} />
-				<Route path="/location/:id" element={<CardDetails />} />
+				<Route path="/rickmorty-api-joyshaheb/location" element={<Location />} />
+				<Route path="/rickmorty-api-joyshaheb/location/:id" element={<CardDetails />} />
 			</Routes>
 		</Router>
 	);
