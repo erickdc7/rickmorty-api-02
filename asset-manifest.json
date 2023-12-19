@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/rickmorty-api-joyshaheb/static/css/main.df240e1d.css",
-    "main.js": "/rickmorty-api-joyshaheb/static/js/main.2e375dd2.js",
-    "static/js/787.a3cd0e40.chunk.js": "/rickmorty-api-joyshaheb/static/js/787.a3cd0e40.chunk.js",
-    "index.html": "/rickmorty-api-joyshaheb/index.html",
-    "main.df240e1d.css.map": "/rickmorty-api-joyshaheb/static/css/main.df240e1d.css.map",
-    "main.2e375dd2.js.map": "/rickmorty-api-joyshaheb/static/js/main.2e375dd2.js.map",
-    "787.a3cd0e40.chunk.js.map": "/rickmorty-api-joyshaheb/static/js/787.a3cd0e40.chunk.js.map"
+    "main.css": "/rickmorty-api-02/static/css/main.4c66202b.css",
+    "main.js": "/rickmorty-api-02/static/js/main.2730e796.js",
+    "static/js/787.35ea9e9a.chunk.js": "/rickmorty-api-02/static/js/787.35ea9e9a.chunk.js",
+    "index.html": "/rickmorty-api-02/index.html",
+    "main.4c66202b.css.map": "/rickmorty-api-02/static/css/main.4c66202b.css.map",
+    "main.2730e796.js.map": "/rickmorty-api-02/static/js/main.2730e796.js.map",
+    "787.35ea9e9a.chunk.js.map": "/rickmorty-api-02/static/js/787.35ea9e9a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.df240e1d.css",
-    "static/js/main.2e375dd2.js"
+    "static/css/main.4c66202b.css",
+    "static/js/main.2730e796.js"
   ]
 }
