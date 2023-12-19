@@ -1,8 +1,8 @@
 {
-  "name": "rickmorty-api-joyshaheb",
+  "name": "rickmorty-api-02",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://erickdc7.github.io/rickmorty-api-joyshaheb",
+  "homepage": "https://erickdc7.github.io/rickmorty-api-02",
   "dependencies": {
     "@popperjs/core": "^2.11.6",
     "@testing-library/jest-dom": "^5.16.5",
